@@ -5,4 +5,9 @@ This file is created in ec2 instances
 
 
 My name is Laxmi
-i am from hyd`
+i am from hyd
+
+
+I am devops Engineer
+I love to travel different places
+
