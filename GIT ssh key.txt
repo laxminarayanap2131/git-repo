@@ -1,5 +1,0 @@
-User name:laxmi
-ssh_key:[REDACTED - Personal Access Token]
-
-Git Path in WSL:
-cd /mnt/c/Users/Kiran/OneDrive/Desktop/Avinasg_AVIZ/git-demo
